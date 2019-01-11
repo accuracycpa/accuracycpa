@@ -4,4 +4,4 @@
 
 setTimeout(function() {
     document.getElementById('bodycontent').className = 'loaded';
-}, 5000);
+}, 3000);
